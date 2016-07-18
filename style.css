@@ -547,7 +547,7 @@ Structure and Layout
 }
 
 .parallax-home .site-inner {
-	margin-top: 70px;
+	margin-top: 0px;
 	max-width: 100%;
 }
 
@@ -896,7 +896,7 @@ Site Header
 ---------------------------------------------------------------------------------------------------- */
 
 .site-header {
-	background-color: #000;
+	background-color: transparent;
 	left: 0;
 	position: fixed;
 	top: 0;
