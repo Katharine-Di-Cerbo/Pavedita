@@ -453,15 +453,16 @@ input[type="search"]::-webkit-search-results-button {
 .footer-widgets input[type="submit"],
 .home-even a.button,
 .home-odd a.button {
-	background: transparent;
+	background: #56b947;
 	clear: both;
 	font-family: Lato, sans-serif;
 	font-size: 18px;
 	font-weight: 900;
 	letter-spacing: 1px;
 	margin-top: 20px;
-	padding: 15px 25px;
+	padding: 10px 20px;
 	text-transform: uppercase;
+	border-radius: 5px;
 }
 
 .footer-widgets a.button,
@@ -470,7 +471,7 @@ input[type="search"]::-webkit-search-results-button {
 .footer-widgets input[type="reset"],
 .footer-widgets input[type="submit"],
 .home-odd a.button {
-	border: 3px solid #fff;
+	border-bottom: 3px solid #397a3b;
 	color: #fff !important;
 }
 
